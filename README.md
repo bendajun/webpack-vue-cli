@@ -1,5 +1,5 @@
 # webpack-vue-cli
-基于webpack5+vue3.0+typescript+webpack-cli4从零搭建的vue3脚手架。
+基于webpack5+ webpack-chain + vue3.0+typescript+webpack-cli4从零搭建的vue3脚手架。
 
 # 适用性
 可用于学习webpack5 + vue3 + ts的脚手架搭建方案，但也可以直接用于项目！。支持js，jsx，ts，tsx的vue3写法。
