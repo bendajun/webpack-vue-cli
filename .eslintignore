@@ -1,0 +1,5 @@
+node_modules/*
+public/*
+dist/*
+webpack.dev.config.js
+webpack.prod.config.js
